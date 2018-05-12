@@ -1,0 +1,27 @@
+_repo: Het-huiselik-en-maatschappelik-leven-van-de-Zuid-Afrikaner--13-in-de-eerste-helft-der-18de-ee__30049
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dominicus, F. C. (Foort Cornelis)
+    alias: Dominicus, Foort Cornelis
+    birthdate: 1884
+    gutenberg_agent_id: '34334'
+    url: http://www.gutenberg.org/2009/agents/34334
+description: ''
+gutenberg_issued: '2009-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30049'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'South Africa -- Social life and customs'
+title: "Het huiselik en maatschappelik leven van de Zuid-Afrikaner\r\nin de eerste\
+  \ helft der 18de eeuw"
+url: http://www.gutenberg.org/ebooks/30049
